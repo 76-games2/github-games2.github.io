@@ -3,4 +3,4 @@ Disallow: /admin
 
 
 
-Sitemap:https://haha-games-online.github.io/sitemap.xml
+Sitemap:https://github-games.gitlab.io/sitemap.xml
